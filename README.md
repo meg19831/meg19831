@@ -1,5 +1,8 @@
 ### Hi there 👋
+<div>
+<img src = "https://arts.giphy.com/wp-content/uploads/2017/11/giphy-14.gif" whidth = "200"/>
 
+</div>
 <!--
 **meg19831/meg19831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
