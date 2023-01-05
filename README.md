@@ -1,5 +1,5 @@
-### Hi there 👋
-<div>
+### Hi there 👋 me llamo María Eugenia.
+<div id= "header" aling = "center">
 <img src = "https://arts.giphy.com/wp-content/uploads/2017/11/giphy-14.gif" whidth = "200"/>
 
 </div>
